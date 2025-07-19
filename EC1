@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>English Club Online for Kids</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+  <section class="hero">
+    <h1>JOIN OUR <span>ENGLISH CLUB</span> ONLINE!</h1>
+    <p>Fun • Interactive • Christian Values</p>
+    <p>📚 For Kids Aged 7-16 — via Zoom</p>
+    <a href="#form" class="cta-button">Join for Free Now</a>
+  </section>
+  <section class="about">
+    <h2>About the English Club</h2>
+    <p>
+      Our English Club helps children become confident in speaking, thinking critically, and loving the English language through fun weekly Zoom sessions. 
+    </p>
+  </section>
+  <section class="benefits">
+    <h2>What Your Child Will Get</h2>
+    <ul>
+      <li>✅ Speak English with Confidence</li>
+      <li>✅ Fun & Relevant Materials</li>
+      <li>✅ Monthly Certificate</li>
+      <li>✅ Friendly, Experienced Teachers</li>
+    </ul>
+  </section>
+  <section class="schedule">
+    <h2>Class Schedule</h2>
+    <p>🧒 Ages 7–9: Saturday at 10:00 WIB</p>
+    <p>🧑 Ages 10–12: Saturday at 13:00 WIB</p>
+    <p>👦 Ages 13–16: Sunday at 15:00 WIB</p>
+  </section>
+  <section class="form-section" id="form">
+    <h2>Register Now – 1st Month is FREE!</h2>
+    <form>
+      <input type="text" placeholder="Parent's Name" required />
+      <input type="email" placeholder="Email Address" required />
+      <input type="text" placeholder="Child's Name" required />
+      <input type="number" placeholder="Child's Age" required />
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+  <footer>
+    <p>&copy; 2025 English Club Online | Contact: WhatsApp / IG / Email</p>
+  </footer>
+</body>
+</html>
+
